@@ -1,6 +1,8 @@
 # OpenWRT-CI
 云编译OpenWRT固件
 
+本项目仅用于校园网认证使用，如有需要添加插件，请说明。
+
 官方版：
 https://github.com/immortalwrt/immortalwrt.git
 
@@ -13,7 +15,7 @@ https://github.com/VIKINGYFY/immortalwrt.git
 
 固件信息里的时间为编译开始的时间，方便核对上游源码提交时间。
 
-MEDIATEK系列、QUALCOMMAX系列、ROCKCHIP系列、X86系列。
+MEDIATEK系列、QUALCOMMAX系列、ROCKCHIP系列。
 
 # 目录简要说明：
 
