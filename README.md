@@ -1,8 +1,6 @@
 # OpenWRT-CI
 云编译OpenWRT固件
 
-本项目仅用于校园网认证使用，如有需要添加插件，请说明。
-
 官方版：
 https://github.com/immortalwrt/immortalwrt.git
 
